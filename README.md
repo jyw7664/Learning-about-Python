@@ -1,5 +1,5 @@
 # Learning-about-Python
-### 파알못의 파이썬 정복기!  🐥 (feat.데조)
+### 파알못의 파이썬 정복기!  :hatching_chick: (feat.데조)
 ##### [점프투파이썬](https://wikidocs.net/book/1)을 기준으로, 참고 사이트, 자료, 동영상을 활용해 파이썬을 알아가보자!!
 
 
