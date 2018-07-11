@@ -5,4 +5,4 @@
 
 - [edwith-모두를 위한 프로그래밍 : 파이썬](https://www.edwith.org/pythonforeverybody/joinLectures/12597)
 - [codeacademy-Learn Python](https://www.codecademy.com/learn/learn-python) 
-- [김왼손의 왼손코딩-무작정 따라하는 파이썬 프로그래밍](https://www.youtube.com/channel/UC0h8NzL2vllvp3PjdoYSK4g)
+- [Youtube 김왼손의 왼손코딩-무작정 따라하는 파이썬 프로그래밍](https://www.youtube.com/channel/UC0h8NzL2vllvp3PjdoYSK4g)
